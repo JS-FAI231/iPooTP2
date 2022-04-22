@@ -3,7 +3,7 @@
  * Clase Viaje.php
  * JORGE SEGURA
  * FAI 231
- * Introduction a la Programacion Orientada a Ojetos
+ * Introduction a la Programacion Orientada a Ojetos  
  */
 
     include 'Pasajero.php';
